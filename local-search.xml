@@ -29,31 +29,5 @@
   
   
   
-  <entry>
-    <title>page</title>
-    <link href="/2023/12/23/page/"/>
-    <url>/2023/12/23/page/</url>
-    
-    <content type="html"><![CDATA[<h1 id="Thoughts-and-ideas-about-application-of-LLMs-in-specific-domains-like-clinic-law-finance"><a href="#Thoughts-and-ideas-about-application-of-LLMs-in-specific-domains-like-clinic-law-finance" class="headerlink" title="Thoughts and ideas about application of LLMs in specific domains like clinic&#x2F;law&#x2F;finance:"></a>Thoughts and ideas about application of LLMs in specific domains like clinic&#x2F;law&#x2F;finance:</h1><h2 id="Clinic"><a href="#Clinic" class="headerlink" title="Clinic"></a>Clinic</h2><ol><li><strong>Clinical Documentation</strong></li></ol><p>   Utilizing Large Language Models (LLMs) to create an intelligent system capable of automatically filling and updating medical records. This system can extract information from doctor’s dictations, patient interviews, medical records, or other sources, generating clear and accurate medical documents, thereby saving healthcare personnel time.</p><ol start="2"><li><p><strong>Diagnostic Support</strong> </p><p>Developing LLMs systems for use by doctors to analyze patient symptoms and medical history, providing potential diagnostic suggestions to assist in the diagnostic process. By offering real-time relevant research and case analyses, it enhances decision-making capabilities.</p></li><li><p><strong>Medication Management and Side Effects Prediction</strong> </p><p>Leveraging LLMs to monitor medical databases and the latest research, providing doctors with information on drug interactions, side effects, and individual variations. This helps minimize the risk of adverse drug reactions, contributing to safer and more effective medication treatments.</p></li><li><p><strong>Medical Literature Analysis</strong> </p><p>Using natural language processing technology based on LLMs to conduct in-depth analysis of medical literature, extracting key information to aid doctors in understanding the latest medical research findings, treatment options, and drug information.</p></li><li><p><strong>Virtual Medical Assistant</strong> </p><p>Creating an interactive virtual medical assistant that utilizes LLMs for semantic understanding. It can answer common patient questions about symptoms, diseases, and treatments from a professional perspective. Additionally, it can provide information regarding the patient’s condition, treatment plans, and post-treatment care. This interactive chat assistant is available to assist patients anytime, anywhere, offering accurate information.</p></li></ol><h2 id="Laws"><a href="#Laws" class="headerlink" title="Laws"></a>Laws</h2><ol><li><p><strong>Contract Review</strong></p><p>Implement LLMs to review and analyze contracts, identifying potential issues and suggesting revisions, including basic questions such as statement syntax, logic problems, or automatic detection of potential legal risks and compliance issues in professional fields. Automate routine tasks, allowing legal professionals to focus on more complex aspects of their work.</p></li></ol>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/12/22/hello-world/"/>
-    <url>/2023/12/22/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
   
 </search>
